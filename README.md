@@ -1,9 +1,7 @@
-# Data-Structures
+# Algorithms and Data Structure II
 
 # Federal University of Rio Grande do Norte
 ## Technology Center - Department of Computer Engineering and Automation
-
-## Algorithms and Data Structure II
 
 This is the repository to solve problems and challenges of Algorithms and Data Structures II course, offered by the Department of Computer Engineering and Automation (DCA) of the Technology Center (CT) at the Federal University of Rio Grande do Norte (UFRN).
 
