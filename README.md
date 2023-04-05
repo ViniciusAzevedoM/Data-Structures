@@ -7,7 +7,7 @@ This is the repository to solve problems and challenges of the Algorithms and Da
 
 The DCA aims to train professionals capable of designing and developing computer systems for industrial automation, embedded systems, software systems, distributed systems, computer networks, and information systems. The CT offers undergraduate and graduate courses in Engineering. This course is part of the curriculum of the Computer Engineering program at DCA/UFRN.
 
-Here you will encounter directories of each challenge, starting from week 2, with a readme.md explaining what it is and the solution proposed.
+Here you will encounter directories of each challenge, starting from week 2, with a README.md explaining what it is and the solution proposed.
 
 - week 02:
   - Data Structure Preliminaries: Dictionaries, Functions, and OOP.
