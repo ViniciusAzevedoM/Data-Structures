@@ -1,7 +1,7 @@
 import pytest
 from linkedlist import *
 
-def removeDuplicatesFromLinkedList(linkedList):
+def removeDuplicatesFromLinkedList(LinkedList):
     """
     Modify the input doubly linked list in place to remove all nodes with duplicate values.
     The modified linked list should still have its nodes sorted with respect to their values.
@@ -12,12 +12,20 @@ def removeDuplicatesFromLinkedList(linkedList):
     Returns:
         LinkedList: The modified linked list with duplicate nodes removed.
     """
-    for node in linkedList.length:
-      print(linkedList.head.data)
-      ##Irá percorrer a lista ligada a partir da cabeça, comparando sempre com todos os outros nós
+    current = LinkedList.head
+    while current is not None:
+        runner = current
+        #print('current:', current.data)
+        while runner.next is not None:
+            #print('runner:', runner.data)
+            if runner.next.data == current.data:
+                runner.next = runner.next.next
+                LinkedList.length -= 1
+            else:
+                runner = runner.next
+        current = current.next
 
-    return linkedList
-
+    return LinkedList
 
 @pytest.fixture(scope="session")
 def data():
@@ -72,7 +80,7 @@ def test_2(data):
 
     linkedlist_test = LinkedList()
     for item in [1,4,5,6]:
-      linkedlist_test.append(item)
+      linkedlist_test.append(item)data
 
     assert removeDuplicatesFromLinkedList(linkedlist) == linkedlist_test
 
