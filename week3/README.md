@@ -5,3 +5,4 @@ For this week, we'll see an exploration of linked lists and the benefits of usin
   - Copy the Code_Interview_Linked_Queue_Stacks.ipynb file, create Solution_Code_Interview_Linked_Queue_Stacks.ipynb and read the challenges
   - On the field "Write your code", create the solution to the problems
   - The solution proposed needs to pass all tests
+  - One idea to increase the solution is to clean the trash of unused nodes
