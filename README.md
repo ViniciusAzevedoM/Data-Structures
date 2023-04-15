@@ -9,6 +9,7 @@ The DCA aims to train professionals capable of designing and developing computer
 
 Here you will encounter directories of each challenge, starting from week 2, with a README.md explaining what it is and the solution proposed.
 
+(Reviewing Data Structure I)
 - week 02:
   - Data Structure Preliminaries: Dictionaries, Functions, and OOP.
 - week 03:
