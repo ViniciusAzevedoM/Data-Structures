@@ -1,0 +1,344 @@
+0 Gramática De Atributos
+1 Abkhaz Phonology
+1 Acehnese Phonology
+1 Adyghe Phonology
+1 Afrikaans Phonology
+1 Alentejan Portuguese
+1 Algarvio Dialect
+1 Allophone
+1 Alveolar Consonant
+1 Alveolar Trill
+1 American Portuguese
+1 American Sign Language Phonology
+1 Ancient Greek Phonology
+1 Angolan Portuguese
+1 Anusvara
+1 Apico-Alveolar
+1 Apicoalveolar
+1 Apophony
+1 Approximant Consonant
+1 Arabic Phonology
+1 Archiphoneme
+1 Assimilation (Linguistics)
+1 Australian English Phonology
+1 Avestan Phonology
+1 Açoriano Dialect
+1 Back Vowel
+1 Belarusian Phonology
+1 Bengali Phonology
+1 Bernese German Phonology
+1 Brasiliense Dialect
+1 Brazilian Portuguese
+1 Brazilian Diaspora
+1 Bulgarian Phonology
+1 Burmese Phonology
+1 Caipira Dialect
+1 Cantonese Phonology
+1 Cape Verdean Portuguese
+1 Carioca Dialect
+1 Catalan Language
+1 Catalan Phonology
+1 Central Consonant
+1 Central Northeastern Portuguese
+1 Central Vowel
+1 Chukchi Phonology
+1 Clitic
+1 Close-Mid Back Rounded Vowel
+1 Close-Mid Back Unrounded Vowel
+1 Close-Mid Front Unrounded Vowel
+1 Close-Mid Vowel
+1 Close Back Rounded Vowel
+1 Close Back Unrounded Vowel
+1 Close Front Unrounded Vowel
+1 Close Vowel
+1 Coarticulation
+1 Colognian Phonology
+1 Comparison Of Spanish And Portuguese
+1 Complementary Distribution
+1 Continuant
+1 Contraction (Grammar)
+1 Cordel Literature
+1 Cornish Phonology
+1 Crasis
+1 Czech Phonology
+1 Danish Phonology
+1 Deaffrication
+1 Dental Consonant
+1 Determiner
+1 Differences Between Spanish And Portuguese
+1 Diphthong
+1 Distinción
+1 Dutch Phonology
+1 East Timor
+1 East Timorese Portuguese
+1 Egyptian Arabic Phonology
+1 Elision
+1 English Phonology
+1 Epenthetic Vowel
+1 Esperanto Phonology
+1 Estonian Phonology
+1 Estremenho Dialect
+1 European Portuguese
+1 Faroese Phonology
+1 Favela
+1 Finnish Phonology
+1 Flores
+1 Florianopolitan Dialect
+1 French Language
+1 French Phonology
+1 Fricative
+1 Fricative Consonant
+1 Front Vowel
+1 Fusion (Phonetics)
+1 Galician-Portuguese
+1 Galician Phonology
+1 Gaúcho Dialect
+1 General American English
+1 Geographic Distribution Of Portuguese
+1 Glottal Consonant
+1 Grammatical Conjugation
+1 Grande Lisboa
+1 Greenlandic Phonology
+1 Guinean Portuguese
+1 Gujarati Phonology
+1 Guttural R
+1 Hawaiian Phonology
+1 Hejazi Arabic Phonology
+1 Hiatus (Linguistics)
+1 Hindi-Urdu Phonology
+1 Hindustani Phonology
+1 Historical Chinese Phonology
+1 History Of Portuguese
+1 Hungarian Phonology
+1 Icelandic Phonology
+1 Ingrian Phonology
+1 International Phonetic Alphabet
+1 Inuit Phonology
+1 Irish Phonology
+1 Italian Language
+1 Italian Phonology
+1 Japanese Phonology
+1 Jorge Amado
+1 Judaeo-Portuguese
+1 Kerkrade Dialect Phonology
+1 Kiowa Phonology
+1 Koine Greek Phonology
+1 Konkani Phonology
+1 Korean Phonology
+1 Kurdish Phonology
+1 Kyrgyz Phonology
+1 L-Vocalization
+1 Labial Consonant
+1 Labialization
+1 Lamino-Alveolar Consonant
+1 Lateral Consonant
+1 Latgalian Phonology
+1 Latin Phonology And Orthography
+1 Latvian Phonology
+1 Levantine Arabic Phonology
+1 Liquid Consonant
+1 Lists Of Languages
+1 Lithuanian Phonology
+1 Loanword
+1 Luxembourgish Phonology
+1 Maastrichtian Dialect Phonology
+1 Macanese Portuguese
+1 Macedonian Phonology
+1 Malay Phonology
+1 Maldivian Phonology
+1 Marathi Phonology
+1 Massachusett Phonology
+1 Medumba Phonology
+1 Mid-Centralized Vowel
+1 Mid Back Rounded Vowel
+1 Mid Central Vowel
+1 Mid Front Unrounded Vowel
+1 Middle English Phonology
+1 Mineiro
+1 Minimal Pair
+1 Mirandese
+1 Modern Greek Phonology
+1 Modern Hebrew Phonology
+1 Monophthong
+1 Monosyllable
+1 Morpheme
+1 Mozambican Portuguese
+1 Mutual Intelligibility
+1 Mário A. Perini
+1 Māori Phonology
+1 Nasal Consonant
+1 Nasal Palatal Approximant
+1 Nasal Stop
+1 Nasal Vowel
+1 Nasalization
+1 Navajo Phonology
+1 Near-Close Near-Back Rounded Vowel
+1 Near-Close Near-Back Unrounded Vowel
+1 Near-Close Near-Front Unrounded Vowel
+1 Near-Open Central Vowel
+1 Near-Open Front Unrounded Vowel
+1 Nepali Phonology
+1 New Zealand English Phonology
+1 Nina Grønnum
+1 North American English Regional Phonology
+1 North Coast Portuguese
+1 Northeast Brazil
+1 Northern Portuguese
+1 Norwegian Phonology
+1 Occitan Phonology
+1 Ojibwe Phonology
+1 Old Chinese Phonology
+1 Old English Phonology
+1 Old Saxon Phonology
+1 Old Tupi
+1 Oliventine Portuguese
+1 Open-Mid Back Rounded Vowel
+1 Open-Mid Back Unrounded Vowel
+1 Open-Mid Central Unrounded Vowel
+1 Open-Mid Front Unrounded Vowel
+1 Open-Mid Vowel
+1 Open Back Rounded Vowel
+1 Open Back Unrounded Vowel
+1 Open Central Unrounded Vowel
+1 Open Vowel
+1 Oromo Phonology
+1 Orsmaal-Gussenhoven Dialect Phonology
+1 Ottawa Phonology
+1 Oxytone
+1 Palatal Consonant
+1 Pashto Phonology
+1 Paulistano Dialect
+1 Persian Phonology
+1 Phoneme
+1 Phonetic Environment
+1 Phonetic Transcription
+1 Phonological History Of Scots
+1 Phonology
+1 Pluricentric Language
+1 Polish Phonology
+1 Portuguese Language Orthographic Agreement Of 1990
+1 Portuguese Alphabet
+1 Portuguese Dialects
+1 Portuguese Diaspora
+1 Portuguese Language
+1 Portuguese Language In Africa
+1 Portuguese Language In Asia
+1 Portuguese Language In Goa
+1 Portuguese Orthography
+1 Portuguese Spelling
+1 Portuguese Vocabulary
+1 Portuñol
+1 Pronunciation
+1 Prosody (Linguistics)
+1 Proto-Indo-European Phonology
+1 Quebec French Phonology
+1 R-Colored Vowel
+1 Received Pronunciation
+1 Recifense Dialect
+1 Reduced Vowel
+1 Register (Sociolinguistics)
+1 Relaxed Pronunciation
+1 Rhotacism (Sound Change)
+1 Rhotic Consonant
+1 Rio De Janeiro
+1 Romance Languages
+1 Romanian Phonology
+1 Russian Phonology
+1 S2Cid (Identifier)
+1 Sandhi
+1 Sardinian Phonology
+1 Scottish Gaelic Phonology And Orthography
+1 Serbo-Croatian Phonology
+1 Serra Amazônica Dialect
+1 Sertanejo Dialect
+1 Setúbal
+1 Sibilant
+1 Sibilant Consonant
+1 Silent Letters
+1 Sinos River Valley
+1 Slavic Languages
+1 Slovak Phonology
+1 Slovene Phonology
+1 Sociolect
+1 Somali Phonology
+1 Sotho Phonology
+1 South African English Phonology
+1 Spanish Dialects And Varieties
+1 Spanish Phonology
+1 Standard Canadian English
+1 Standard Chinese Phonology
+1 Standard German Phonology
+1 Stop (Linguistics)
+1 Stop Consonant
+1 Stress (Linguistics)
+1 Sulista Dialect
+1 Swedish Phonology
+1 Syllabic Consonant
+1 Syllabification
+1 Syllable
+1 Syllable Coda
+1 Syllable Onset
+1 Synaeresis
+1 São Tomean Portuguese
+1 Tagalog Phonology
+1 Tamil Phonology
+1 Taos Phonology
+1 Terras De Trás-Os-Montes
+1 Tone (Linguistics)
+1 Transmontano Dialect
+1 Trás-Os-Montes (Region)
+1 Tunisian Arabic Phonology
+1 Turkish Phonology
+1 Ubykh Phonology
+1 Ukrainian Phonology
+1 Upper Sorbian Phonology
+1 Uruguay
+1 Uruguayan Portuguese
+1 Uvular Consonant
+1 Uyghur Phonology
+1 Velar Consonant
+1 Velarization
+1 Velarized Alveolar Lateral Approximant
+1 Vietnamese Phonology
+1 Voice (Phonetics)
+1 Voiced Alveolar Approximant
+1 Voiced Alveolar Fricative
+1 Voiced Alveolar Fricative Trill
+1 Voiced Alveolar Nasal
+1 Voiced Alveolar Trill
+1 Voiced Apico-Alveolar Fricative
+1 Voiced Bilabial Nasal
+1 Voiced Bilabial Plosive
+1 Voiced Dental And Alveolar Taps And Flaps
+1 Voiced Dental Plosive
+1 Voiced Labial–Velar Approximant
+1 Voiced Labiodental Fricative
+1 Voiced Palatal Approximant
+1 Voiced Palatal Lateral Approximant
+1 Voiced Palatal Nasal
+1 Voiced Postalveolar Fricative
+1 Voiced Retroflex Approximant
+1 Voiced Uvular Fricative
+1 Voiced Uvular Fricative Trill
+1 Voiced Velar Plosive
+1 Voiceless Alveolar Fricative
+1 Voiceless Apico-Alveolar Fricative
+1 Voiceless Bilabial Plosive
+1 Voiceless Consonant
+1 Voiceless Dental Plosive
+1 Voiceless Glottal Fricative
+1 Voiceless Labiodental Fricative
+1 Voiceless Postalveolar Fricative
+1 Voiceless Uvular Fricative
+1 Voiceless Velar Fricative
+1 Voiceless Velar Plosive
+1 Voicelessness
+1 Vowel
+1 Vowel Alternation
+1 Vowel Length
+1 Vowel Reduction
+1 Welsh Phonology
+1 West Frisian Phonology
+1 Yiddish Phonology
+1 Zuni Phonology
+1 ん

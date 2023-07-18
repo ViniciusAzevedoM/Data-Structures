@@ -1,0 +1,10 @@
+255 International Phonetic Alphabet
+208 Portuguese Phonology
+208 Alveolar Consonant
+204 Velar Consonant
+202 Palatal Consonant
+196 Labial Consonant
+194 Front Vowel
+194 Voiced Palatal Approximant
+192 Voiceless Velar Plosive
+189 Voiced Bilabial Nasal
