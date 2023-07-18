@@ -4,7 +4,7 @@
 
  - The Pipeline follow the steps: Create Graph, Preprocessing, Network Pruning and Explore Network and nodes.
 
- - To watch an explanation video, [click here!](https://www.loom.com/share/78b81693aba241b991142cbe7d3f5feb)
+ - To watch an explanation video, [click here!](https://www.loom.com/share/9174e690ead144c9bbc447bc6d423c2c?sid=82f73a09-9a75-47e2-a35f-a8db4835a634)
 
 Group Members: 
  - GABRIEL FLORENCIO DE ALMEIDA - 20230001605
