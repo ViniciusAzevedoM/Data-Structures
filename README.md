@@ -16,3 +16,5 @@ Here you will encounter directories of each challenge, starting from week 2, wit
   - Data Structure Preliminaries: linked lists, queues, and stacks.
 - week 04:
   - Data Structure Preliminaries: recursion, binary tree, and search tree.
+
+  - Next steps are in U2P1, U2P3 and FinalProject directories.
